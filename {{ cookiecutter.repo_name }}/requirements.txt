@@ -1,0 +1,14 @@
+# local package
+-e .
+
+# external requirements
+boto3
+click
+flake8
+jsonnet
+overrides
+mlflow
+python-dotenv>=0.5.1
+tensorflow-gpu==1.13
+tensorpack
+tqdm
